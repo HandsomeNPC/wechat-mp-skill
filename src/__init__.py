@@ -1,0 +1,1 @@
+"""wechat-skill source package."""

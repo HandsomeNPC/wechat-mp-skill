@@ -1,0 +1,5 @@
+wechatpy>=1.8.18
+requests>=2.25.0
+optionaldict>=0.1.0
+cryptography>=3.0
+xmltodict>=0.12.0
