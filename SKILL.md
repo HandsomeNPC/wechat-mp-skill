@@ -1,5 +1,5 @@
 ---
-name: wechat-skill
+name: wechat-mp-skill
 description: 微信公众号运营工具箱 — 文章管理、菜单管理、用户/标签、评论管理、客服与回复、数据分析、回调解析，一站式覆盖。
 version: 1.0.0
 type: code
@@ -24,7 +24,7 @@ entry_point: main.py
 install: pip install -r requirements.txt
 ---
 
-# 微信公众号运营工具箱 (wechat-skill)
+# 微信公众号运营工具箱 (wechat-mp-skill)
 
 基于 [wechatpy](https://github.com/wechatpy/wechatpy) 的 微信公众号一站式工具，覆盖 文章管理、菜单管理、素材、客服消息、群发、模板/订阅消息、评论管理、用户/标签、数据分析、带参二维码、回调解析等全部能力。
 
